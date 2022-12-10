@@ -1,4 +1,4 @@
-Write a common use-case, where you will use a daemon set instead of replica set.
+
 In daemon set will create a pod in every node running in our cluster using nodeselector 
 if we particular create pod in that node labelled with test we want to check application as testing purpose so label node with test
 eg 
